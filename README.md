@@ -1,6 +1,6 @@
-## Hi there, I'm Mathieu - aka [ImLilDev][github] 👋
+# Hi there, I'm Mathieu - aka [ImLilDev][github] 👋
 
-### Currently a Student at [ESGI][esgi] Paris !
+## Currently a Student at [ESGI][esgi] Paris !
 
 - 🌱 I’m currently learning InfoSec
 - 🔋 Something building lightsabers
