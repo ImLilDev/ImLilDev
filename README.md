@@ -1,5 +1,3 @@
-<br>
-
 ## Hi there, I'm Mathieu - aka [ImLilDev][github] 👋
 
 ### Currently a Student at [ESGI][esgi] Paris !
