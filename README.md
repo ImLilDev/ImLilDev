@@ -3,7 +3,7 @@
 ### Currently a Student at [ESGI][esgi] Paris !
 
 - 🌱 I’m currently learning InfoSec
-- 🔋 Something building lightsabers
+- 🔋 Sometimes building lightsabers
 
 ### Connect with me:
 
