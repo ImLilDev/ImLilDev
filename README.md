@@ -103,5 +103,5 @@ Design original idea : [DynamoRed][inspiration]
 [esgi]: https://www.esgi.fr
 [github]: https://github.com/ImLilDev
 [inspiration]: https://github.com/DynamoRed/DynamoRed
-[instagram]: https://instagram.com/ImLilDev
+[instagram]: https://www.instagram.com/imlildev/
 [discord]: https://discord.com/users/221994483552616448
