@@ -13,6 +13,7 @@
 
 [<img align="left" alt="ImLilDev | Discord" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
 [<img align="left" alt="ImLilDev | Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="ImLilDev | Linkedin" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
 
@@ -106,3 +107,4 @@ Design original idea : [DynamoRed][inspiration]
 [inspiration]: https://github.com/DynamoRed/DynamoRed
 [instagram]: https://www.instagram.com/imlildev/
 [discord]: https://discord.com/users/221994483552616448
+[linkedin]: https://www.linkedin.com/in/mathieu-dubois-8087221b8/
