@@ -97,10 +97,6 @@
 <br />
 <br />
 
-
-###### Inspiration
-
-
 [esgi]: https://www.esgi.fr
 [github]: https://github.com/ImLilDev
 [inspiration]: https://github.com/DynamoRed/DynamoRed
