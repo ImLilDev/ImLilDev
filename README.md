@@ -100,7 +100,6 @@
 
 ###### Inspiration
 
-Design original idea : [DynamoRed][inspiration]
 
 [esgi]: https://www.esgi.fr
 [github]: https://github.com/ImLilDev
